@@ -1,6 +1,6 @@
 # FC Bayern Munich React Website
 
-It is example react app built with [Create react app](https://github.com/facebook/create-react-app) 
+It is example of react app built with [Create react app](https://github.com/facebook/create-react-app) 
 
 ## Demo 
 
