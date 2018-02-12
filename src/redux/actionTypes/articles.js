@@ -1,4 +1,0 @@
-export const FETCH_ARTICLES = 'FETCH_ARTICLES';
-export const ADD_ARTICLES = 'ADD_ARTICLES';
-export const REMOVE_ARTICLE = 'REMOVE_ARTICLE';
-export const UPDATE_ARTICLE = 'UPDATE_ARTICLE';
